@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paige-pagaduan.github.io/sitemap.xml
+Sitemap: https://ppagaduan.github.io/sitemap.xml
